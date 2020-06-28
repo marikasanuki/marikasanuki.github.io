@@ -26,7 +26,7 @@ body {
 }
 
 a {
-  color: #f93759;
+  color: #525252;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -251,6 +251,7 @@ figure figcaption {
 }
 
 #fh5co-main {
+  background-color: whitesmoke;
   width: 80%;
   float: right;
   -webkit-transition: 0.5s;
@@ -268,6 +269,7 @@ figure figcaption {
   }
 }
 #fh5co-main .fh5co-narrow-content {
+  background-color: whitesmoke;
   position: relative;
   width: 93%;
   margin: 0 auto;
@@ -283,7 +285,7 @@ figure figcaption {
 
 #fh5co-hero {
   min-height: 500px;
-  background: #fff url(../images/loader.gif) no-repeat center center;
+  background: whitesmoke url(../images/loader.gif) no-repeat center center;
   width: 100%;
   float: left;
   clear: both;
@@ -766,7 +768,7 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 }
 
 .fh5co-more-contact {
-  background: #fafafa;
+  background-color: whitesmoke;
   margin-top: 100px;
 }
 
@@ -823,10 +825,10 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   text-transform: uppercase;
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-text {
-  margin-top: 30px;
+  /* margin-top: 30px; */
 }
 .fh5co-feature.fh5co-feature-sm .fh5co-icon i {
-  color: #f93759;
+  color: #f0284d;
   font-size: 40px;
 }
 @media screen and (max-width: 1200px) {
@@ -1178,4 +1180,46 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
     font-size: 20px;
 }
 
+.git-icon {
+    color: black;
+    font-size: 18px;
+    padding-top: 2px;
+
+}
+
+.live-site {
+    color: black;
+    font-size: 14px;
+    padding-bottom: 2px;
+}
+
+.proj-hed {
+    font-size: 18px;
+}
+
+.contact-icon {
+  position: absolute;
+  font-size: 40px;
+  top: 0;
+  left: 0;
+  width: 90px;
+  height: 90px;
+  display: table;
+  text-align: center;
+  color: #525252;
+  background: rgba(0, 0, 0, 0.05);
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%;
+  padding-top: 15px;
+}
+
+.contact-text {
+ font-size: 16px;
+}
+
+.contact-text:hover {
+  color: #f93759;
+}
 /*# sourceMappingURL=style.css.map */
