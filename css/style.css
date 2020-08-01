@@ -1222,4 +1222,13 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
 .contact-text:hover {
   color: #f93759;
 }
+
+.profile-img {
+    width: 200px;
+    border-radius: 25px;
+}
+
+.profile-subhead {
+}
+
 /*# sourceMappingURL=style.css.map */
