@@ -551,7 +551,8 @@ body {
 		overflow: hidden;
 		position: relative;
 		z-index: 1;
-		margin-bottom: 25px;
+        margin-bottom: 25px;
+
 		img {
 			position: relative;
 			max-width: 100%;
@@ -560,7 +561,7 @@ body {
 			-ms-transform: scale(1.2);
 			-o-transform: scale(1.2);
 			transform: scale(1.2);
-			@include transition(.9s);
+            @include transition(.9s);
 		}
 	}
 	.desc{
