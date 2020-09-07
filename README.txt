@@ -1,4 +1,3 @@
-
 TITLE: 
 Marble - Fully Responsive Free HTML5 template
 
@@ -30,6 +29,12 @@ https://www.google.com/fonts/
 Icomoon
 https://icomoon.io/app/
 
+Font Awesome
+https://fontawesome.com/
+
+Devicon
+https://devicon.dev/
+
 Respond JS
 https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
 
@@ -39,9 +44,6 @@ http://daneden.me/animate
 jQuery Waypoints
 https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
 
-Demo Images:
-http://pexels.com
-
 Owl Carousel
 http://www.owlcarousel.owlgraphic.com/
 
@@ -50,7 +52,4 @@ http://markdalgleish.com/projects/stellar.js/
 
 jQuery counTo
 https://github.com/mhuggins/jquery-countTo
-
-Google Map
-https://maps.google.com/
 
